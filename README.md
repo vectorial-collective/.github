@@ -15,3 +15,6 @@ Vectorial Collective is entirely open-source. Whether you're a student looking t
 4. Apply to have one of your own projects as an organization repo!
 
 *Founded with a mission to make advanced engineering simulation accessible and teachable to every student.*
+
+## Questions?
+Reach out to: vectorial.collective@gmail.com

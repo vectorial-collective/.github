@@ -12,5 +12,6 @@ Vectorial Collective is entirely open-source. Whether you're a student looking t
 1. Explore our public repositories.
 2. Fork a project and open a pull request.
 3. Join our community build sessions!
+4. Apply to have one of your own projects as an organization repo!
 
 *Founded with a mission to make advanced engineering simulation accessible and teachable to every student.*

@@ -19,3 +19,5 @@ Vectorial Collective is entirely open-source. Whether you're a student looking t
 ## Questions?
 Reach out to: vectorial.collective@gmail.com
 Join the Discord: https://discord.gg/EfJxApkTh
+
+Founded and run by: Divyansh Kumar
